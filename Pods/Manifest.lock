@@ -1,0 +1,16 @@
+PODS:
+  - ASPVideoPlayer (5.0.2)
+
+DEPENDENCIES:
+  - ASPVideoPlayer (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ASPVideoPlayer
+
+SPEC CHECKSUMS:
+  ASPVideoPlayer: f8feb3c47adfcb89a281960030165a2af69b3cbf
+
+PODFILE CHECKSUM: c7e989d4d88f0431a9d801d897782d05611f16a8
+
+COCOAPODS: 1.5.3
